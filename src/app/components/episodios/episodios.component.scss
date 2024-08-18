@@ -1,0 +1,28 @@
+.episodios-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+.episodios-table th, .episodios-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  
+  .episodios-table th {
+    background-color: #f4f4f4;
+    color: #333;
+    font-weight: 600;
+  }
+
+  .episodios-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  .episodio-details {
+    font-size: 14px;
+    color: #666;
+    margin-top: 8px;
+  }
+  
